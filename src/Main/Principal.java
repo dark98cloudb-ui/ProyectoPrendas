@@ -22,6 +22,9 @@ public class Principal {
 		 
 		 Ropas ropa = null;
 		 
+		 System.out.println("Primera oportunida");
+		 
+		 
 		 do {
 			 System.out.println("MENU PRINCIPAL");
 			 System.out.println("1--ALTA");
